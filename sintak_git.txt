@@ -1,0 +1,6 @@
+git init # Pastikan lokasi sudah benar
+git add . # menambahkan Semua berkas Kedalam git
+git commit -m "Updates" # Memberi tanda perubahan
+git branch -M master
+git remote add origin https://github.com/bobizinaidinzidan/kasir-django.git
+git push # Untuk push project ke git online
