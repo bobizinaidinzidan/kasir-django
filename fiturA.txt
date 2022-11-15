@@ -1,2 +1,5 @@
 belajar membuat branch baru
 admin bobizinaidin_
+
+testing ssh 
+git remote set-url origin git@github.com:bobizinaidinzidan/kasir-django.git
